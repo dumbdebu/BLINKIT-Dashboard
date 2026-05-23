@@ -64,7 +64,7 @@ By following along a YouTube tutorial and completing the project simultaneously 
 * Develop an attractive-looking dashboard.
 * Extract useful insights from business raw data.
 
-While I got this idea from a tutorial, I did it to practice my Excel and data analysis skills.
+ I got this project idea recommendation from my seniors to go through from a tutorial and I did it to practice my Excel and data analysis skills.
 
 
 Purpose of the Project
